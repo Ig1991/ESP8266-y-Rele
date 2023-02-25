@@ -16,5 +16,5 @@ A traves del VIN podemos alimentar con 5V sin problemas lo que permite utilizar 
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
 # Instalar ESP8266 en el Ide deArduino
 https://www.instructables.com/INSTALANDO-LA-PLACA-NODEMCU-EN-EL-SOFTWARE-DE-ARDU/
-
+# Prueba básica con Arduino
 
