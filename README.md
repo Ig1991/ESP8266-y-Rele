@@ -20,3 +20,6 @@ https://www.instructables.com/INSTALANDO-LA-PLACA-NODEMCU-EN-EL-SOFTWARE-DE-ARDU
 https://github.com/Ig1991/ESP8266-y-Rele/blob/main/Basico_un_rele.ino
 # Controlar a distancia con MQTT
 https://github.com/Ig1991/ESP8266-y-Rele/blob/main/un_rele_mqtt.ino
+#Servidor MQT 
+Cómo instalar tu servidor MQTT en la nube 
+https://www.youtube.com/watch?v=p9Bf_lBPiTE&t=43s
