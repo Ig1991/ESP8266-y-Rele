@@ -17,4 +17,6 @@ https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
 # Instalar ESP8266 en el Ide deArduino
 https://www.instructables.com/INSTALANDO-LA-PLACA-NODEMCU-EN-EL-SOFTWARE-DE-ARDU/
 # Prueba básica con Arduino
-
+https://github.com/Ig1991/ESP8266-y-Rele/blob/main/Basico_un_rele.ino
+# Controlar a distancia con MQTT
+https://github.com/Ig1991/ESP8266-y-Rele/blob/main/un_rele_mqtt.ino
